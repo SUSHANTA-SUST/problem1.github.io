@@ -1,0 +1,39 @@
+.btnstyle{
+    background-color:#87ceeb;
+    color:white;
+    margin-top:5px;
+    font-size:12px;
+    border:none;
+    border-radius:5px;
+    width:90px;
+    height:20px;
+    font-weight: 400;
+    cursor: pointer;
+}
+
+.btnstyle:focus{
+    outline: none;
+}
+table,tr,td{
+ border:.5px solid black;
+ 
+}
+td{
+    width:10px;
+}
+table{
+    border-collapse: collapse;
+    height:20px;
+    width:250px;
+}
+.tablestyle{
+    margin-top: 5px;
+}
+
+p{
+    padding:0px;
+    margin:0px;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
+}
